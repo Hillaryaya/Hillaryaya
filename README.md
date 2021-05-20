@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hillaryaya
+- 👋 Hi, I’m @HillaryAya
 - 👀 I’m interested in ...Data Analytics, Python,Tableau,Sql, Data Visualization, Dashboarding.
 - 🌱 I’m currently learning ... Data Analytics, Python, Tableau, Sql, Data Visualization, Dashboarding.
 - 💞️ I’m looking to collaborate on ... Exciting Projects that would have me utilizing my intrests, whilst applyiing knowlegde and also learning new things.
